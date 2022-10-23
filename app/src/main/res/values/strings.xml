@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="recordingTime">Recording time</string>
+    <string name="fullName">Full name</string>
+</resources>
